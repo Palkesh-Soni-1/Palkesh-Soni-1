@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/programming-code-made-with-binary-code-coding-hacker-background-digital-binary-data-streaming-digital-code_127544-778.jpg)]
+[![MasterHead](https://boodle.ai/wp-content/uploads/2023/05/LLM-more-than-meets-the-eye.jpg)]
 <h1 align="center">Hi 👋, I'm Palkesh Soni</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
