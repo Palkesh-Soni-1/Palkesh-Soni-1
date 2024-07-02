@@ -29,3 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palkesh-soni-1&show_icons=true&locale=en" alt="palkesh-soni-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palkesh-soni-1&" alt="palkesh-soni-1" /></p>
+
+## 📊 GitHub Report:
+
+### Last 30 Days Github Activity :
+![](https://github-readme-activity-graph.vercel.app/graph?username=Palkesh-Soni-1&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
+
+## 🐦 Coding Stats:
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Palkesh_Soni)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sonipalkesh43)
