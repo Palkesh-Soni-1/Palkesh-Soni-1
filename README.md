@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Check My portfolio [https://palkesh-soni-1.github.io/portfolio/](https://palkesh-soni-1.github.io/portfolio/)
 
 - 📫 How to reach me **sonipalkesh43@gmail.com**
 
@@ -35,5 +34,3 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Palkesh-Soni-1&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
 
 ## 🐦 Coding Stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Palkesh_Soni)
-![Leetcode Stats](https://leetcard.jacoblin.cool/sonipalkesh43)
